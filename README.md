@@ -6,10 +6,10 @@
    - Snapshot of the calculated result:
 <img src="./stock_hard.jpeg" width="600" height="400">
       
-   - Main tool used: Visuail Basic Application(VBA)[https://docs.microsoft.com/en-us/office/vba/api/overview/language-reference], Excel
+   - Main tool used: Visuail Basic Application(or, in brevity, [VBA](https://docs.microsoft.com/en-us/office/vba/api/overview/language-reference)), Excel
    
 ## Usage
-  - Download th repo, open "total_stock_volumn.xlsm", click the button "multi_year_stock_data_hard", and wait for a few seconds for the calculation to be finished. That's all.
+  - Download th repo, open "total_stock_volumn.xlsm", click the button "multi_year_stock_data_hard", and wait for a few seconds for the calculation to be finished and the result shown above will appear in sheet 2 of the workbook. That's all.
     
 
 
