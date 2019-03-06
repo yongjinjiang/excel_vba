@@ -4,8 +4,9 @@
    - Finished the [hard](https://github.com/yongjinjiang/excel_vba#hard) level and realized [challenge](https://github.com/yongjinjiang/excel_vba#challenge) feature of the homework. For more details, refer to [original text](
 #the-original-text-of-the-homework-assignment) of the homework.
    - Snapshot of the calculated result:
-      <img src="./stock_hard.jpeg" width="600" height="400">
-   - Main tool: Visuail Basic Application(VBA)[https://docs.microsoft.com/en-us/office/vba/api/overview/language-reference], Excel
+<img src="./stock_hard.jpeg" width="600" height="400">
+      
+   - Main tool used: Visuail Basic Application(VBA)[https://docs.microsoft.com/en-us/office/vba/api/overview/language-reference], Excel
    
 ## Usage
   - Download th repo, open "total_stock_volumn.xlsm", click the button "multi_year_stock_data_hard", and wait for a few seconds for the calculation to be finished. That's all.
