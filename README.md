@@ -1,5 +1,5 @@
 ## About
-   - This is the homework project for unit 2(VBA) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
+   - This is the personal project for unit 2(VBA) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
    - Used VBA scripting to analyze real stock market data.
    - Finished the [hard](https://github.com/yongjinjiang/excel_vba#hard) level and realized [challenge](https://github.com/yongjinjiang/excel_vba#challenge) feature of the homework. For more details, refer to [original text](
 #the-original-text-of-the-homework-assignment) of the homework.
